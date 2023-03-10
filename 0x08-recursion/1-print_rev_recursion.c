@@ -15,5 +15,5 @@ void _print_rev_recursion(char *s)
 	}
 	_putchar (*s);
 	s--;
-	_print_rev_recursion(s);
+	_print_rev_recursion("\ntalk is cheap, show me the code");
 }

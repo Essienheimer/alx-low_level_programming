@@ -28,7 +28,6 @@ int main(int argc, char *argv[])
 			}
 			else
 				sum = sum + atoi(argv[i]);
-		
 		}
 		printf("%d\n", sum);
 	}

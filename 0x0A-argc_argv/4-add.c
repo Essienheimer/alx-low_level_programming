@@ -5,7 +5,7 @@
 *@argc: argument count
 *@argv: argument vector
 *
-*Return: 0 for success, 1 for non-digit and 1 for Error
+*Return: 0 for success, 1 for non-digit
 */
 
 int main(int argc, char *argv[])
